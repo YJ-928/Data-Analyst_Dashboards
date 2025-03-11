@@ -1,0 +1,13 @@
+Visualization Objectives
+
+Create a bar chart to visualize the daily count of newly confirmed COVID-19 cases
+
+Create a calculated column called "Daily Change" by subtracting the sum of deceased and recovered cases from the total confirmed cases, i.e., confirmed - (deceased + recovered)
+
+Build a line chart to illustrate the Daily changes in covid cases
+
+Construct a side-by-side bar chart to compare the total confirmed, recovered, and deceased COVID-19 cases for each state
+
+Use a line (step) chart to observe changes in the mortality rate over time for India and identify any spikes that may be considered outliers
+
+Show the weekly sum of new confirmed COVID-19 cases for India

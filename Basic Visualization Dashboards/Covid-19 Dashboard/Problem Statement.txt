@@ -1,0 +1,7 @@
+Covid-19 Dataset
+
+Problem Statement
+
+Explore different data fields of the unemployment data, such as Date, State, Confirmed, Deceased, Recovered, State_Name  and create interactive reports and visualizations to showcase your findings
+
+This project will help you build your skills in data analysis, data visualization, and report creation and Prepare you for more advanced data analysis projects in the future.

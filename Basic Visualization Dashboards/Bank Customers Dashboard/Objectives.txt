@@ -1,0 +1,18 @@
+Visualization Objectives
+
+Build a pie chart to represent the total balance in each region (East, West, North, South). Display the region names and their corresponding balance.
+
+In the above visual, show the percentage of total balance in each region.
+Hint: Right-click on the sum(balance) field in the mark label. Go to Quick Table Calculation and select Percent of Total
+
+Create a bar chart showing the distribution of customers by gender.
+Add colors to the bars based on gender (Female: Red, Male: Green).
+Use labels to display the distinct count of male and female customers. 
+Hint: Drag customer ID to row, right-click go to Measure, and select count distinct
+
+Create a graph to identify the job class with the highest sum of balance in each region. Show the max and min values of the balance in each region
+
+Create a Calculated field to find the average balance of male and female customers separately. Present the results in a table with two columns: Gender and Average balance
+Formula : { FIXED [Gender]:AVG([Balance]) }
+
+Create a scatter plot with "Age" on the x-axis and "Balance" on the y-axis. Add Shapes based on Job classification. Color the data points based on gender (Male and Female) .

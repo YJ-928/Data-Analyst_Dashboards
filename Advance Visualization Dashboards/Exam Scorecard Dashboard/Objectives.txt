@@ -1,0 +1,15 @@
+Visualization Objectives
+
+Design a pie chart to represent the percentage of students from each state. Show state and percent(%) of Total Count of Students using labels.(Sheet 1)
+
+Create a bar chart to show the distribution of student marks in Exam 1. Categorize them state wise and add color based on state.(Sheet 2)
+
+Set up Filter action to Filter State wise record in Sheet 2 when clicking segments of each state in Sheet 1.
+
+Aggregate the state wise average scores for each exam and display them in a table.(Sheet 3)
+
+Add a calculated column named "Average Score" to calculate the average marks for each student.
+
+Show the top 20 students with Highest Average Score in the "Treemaps" chart and add their Name, Marks and city name in the tooltips.(Sheet 4)
+
+Visualize the number of students in different "Average Score" bin and add parameters to change size of "Average Score" bin. Bin size may vary from 2 to 10.(Sheet 5)

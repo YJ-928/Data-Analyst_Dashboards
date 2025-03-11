@@ -1,0 +1,7 @@
+Bank-Customers Dataset
+
+Problem Statement
+
+Explore different data fields of the dataset, such as Customer ID, Gender, Age, Region, Job Classification, Date Joined, etc., and create interactive visualizations to showcase your findings
+
+This project will help you build your skills in data analysis, data visualization, and report creation. It will prepare you for more advanced data analysis projects in the future.

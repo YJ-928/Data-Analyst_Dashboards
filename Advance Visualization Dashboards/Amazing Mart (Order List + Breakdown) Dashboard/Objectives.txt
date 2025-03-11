@@ -1,0 +1,13 @@
+Visualization Objectives
+
+Create a relationship between Order List and Order Breakdown using the order ID field and “=” operator
+
+Use a map visualization to show the geographical distribution of sum(sales) and avg(discount) by each country
+
+Generate a line chart that presents the trend of both sales and profit over time(per Year) using dual lines chart
+
+Create a table that shows the top 10 customers by total sales and lists the count of products purchased by these customers
+
+In the above question, add a parameter to filter out the top N customers, where N may vary from 5 to 25
+
+Build a treemap visualization that shows the Percentage of total profit in each category and region

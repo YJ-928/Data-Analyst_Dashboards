@@ -1,0 +1,16 @@
+Visualization Objectives
+
+Create a pie chart to show the distribution of sales across different categories. Show category and percent (%) of Total Profit using labels.(Sheet 1)
+
+Create a bar chart to show the average discount in each sub-category. Group them category-wise, sort in descending order of discount, and show the min and max discount in each category.(Sheet 2)
+
+Set up the Filter action to Filter sub-category in Sheet 2 when clicking segments of each category in Sheet 1
+
+Create a hierarchy named Products of category, sub-category, and product name
+
+Create a scatter plot with sales and profit to understand the relationship between sales revenue and profit. Use Products to show categories using different shapes and drill down to sub-category
+
+Add a calculated column named "Marked Price" to calculate the Marked Price for each unit of product
+Hint: use the formula:-  Sales/(quantity*(1-discount))
+
+Show the top 10 Product names with the highest profit in the "Treemaps" chart

@@ -1,0 +1,14 @@
+Visualization Objectives
+How does the distribution of unemployed men vary per year from 2010 to 2020?
+
+How does the distribution of unemployed women vary per month from the period  of Jan - 2010 to Feb - 2020?
+
+Identify the month and year with the highest sum of unemployment stats for Men and show in the tooltip.
+
+Visualize the distribution of unemployed men each month (discrete), add color to separate each mark based on different age groups.
+
+Show the distribution of unemployed women per month from the period of Jan - 2010 to Feb - 2020 based on different age groups with different colors using Area Chart(continuous).
+
+Create a calculated column named "Total" to sum the data for men and women for each month and age group.
+
+Use the total column to show the distribution of unemployment per quarter(continuous) from Jan - 2010 to Feb - 2020.

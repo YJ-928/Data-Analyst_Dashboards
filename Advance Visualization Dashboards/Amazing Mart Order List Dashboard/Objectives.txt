@@ -1,0 +1,15 @@
+Visualization Objectives
+
+Create a line chart to visualize the monthly order trend from Jan- 2011 to Nov - 2013
+
+Visualize the number of orders placed in each quarter from 2011 to 2014 using a pie chart. Show the count and each quarter using labels
+
+Create a hierarchy named “Geography” of country, state, region, and city by assigning a geographical role to the “region”
+
+In a filled map, visualize all different regions with different colors. Show the count of states in each region on the map
+
+Create a calculated column named “Delivery Time” to calculate the difference between shipping date and order date
+
+On the map, visualize the average delivery time for each country and format the delivery time to show data up to one decimal place
+
+Create a bar graph to compare the number of orders placed in different ship modes in each segment

@@ -1,0 +1,7 @@
+Amazing Mart (Order List + Breakdown) Dataset
+
+Problem Statement
+
+Explore different data fields on both sheets of the Amazing Mart Dataset, such as Order Date, Customer Name, Country, Region, Product Name, Discount, Sales, Profit, Category, etc., and create interactive reports and visualizations to showcase your findings.
+
+This project will help you build your skills in data analysis, data visualization, and report creation and Prepare you for more advanced data analysis projects in the future.
